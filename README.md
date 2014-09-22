@@ -30,6 +30,10 @@ Android
 
 . 安装 C4droid、gcc插件和sdl2插件的最新版
 
+. Install libiconv
+
+. 安装 libiconv
+
 . Open makefile
 
 . 从 c4droid 的编辑器中打开 makefile
