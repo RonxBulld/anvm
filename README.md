@@ -64,7 +64,7 @@ Linux
 Mac
 ===
 
-........First I need an apple device
+........First, I need an apple device
 
 求土豪送设备
 
