@@ -5,6 +5,8 @@ a bbk basic virtual machine in android device, based on c++ and sdl2
 
 BB虚拟机的Android实现，使用C++和SDL2编写。
 
+转载请注明出处：https://github.com/RonxBulld/anvm
+
 
 windows
 =======
