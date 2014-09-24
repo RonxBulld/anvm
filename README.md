@@ -30,10 +30,6 @@ Android
 
 . 安装 C4droid、gcc插件和sdl2插件的最新版
 
-. Install libiconv
-
-. 安装 libiconv
-
 . Open makefile
 
 . 从 c4droid 的编辑器中打开 makefile
@@ -41,10 +37,6 @@ Android
 . Long press compile -> Use makefile -> SDL2 application
 
 . 长按编译键→选择使用 makefile→选择 SDL2 应用
-
-. Copy folder named 'resource' to /data/data/com.n0n3m4.droidc/files/
-
-. 复制 resource 文件夹到 /data/data/com.n0n3m4.droidc/files/
 
 . Compile & Run
 
@@ -64,7 +56,7 @@ Linux
 Mac
 ===
 
-........First, I need an apple device
+........First, I need an apple device ...
 
 求土豪送设备
 
